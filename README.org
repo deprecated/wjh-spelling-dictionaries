@@ -1,0 +1,4 @@
+My copies of dictionaries for use with hunspell in emacs
+
+* [2017-09-25 Mon] Fix apostrophes
++ Modify the ~.aff~ files following discussion [[https://github.com/en-wl/wordlist/issues/122][here]]
